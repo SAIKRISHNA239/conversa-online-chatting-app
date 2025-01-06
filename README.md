@@ -194,5 +194,4 @@ The MERN-Chat-App is a cutting-edge solution designed to streamline real-time co
   </tr>
 </table>
 
----
-# Conversa-online-chatting-app
+
